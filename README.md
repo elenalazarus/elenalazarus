@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! Nice to meet you! My name is Olena Lazarenko, and I'm a full-stack <br>developer who absolutely loves working with cloud technology, especially <br>Salesforce products! I'm always excited to learn about new technologies <br>and innovative ways to tackle the daily challenges that software engineers <br>face.<br><br>Currently, I'm exploring Typescript and Golang. Although I've been <br>passionate about Object-Oriented Programming for years, Functional <br>Programming has become another favourite of mine!
+Hey there! Nice to meet you! My name is Olena Lazarenko, and I'm a full-stack <br>developer who absolutely loves working with cloud technology, especially <br>Salesforce products! I'm always excited to learn about new technologies <br>and innovative ways to tackle the daily challenges that software engineers <br>face.<br><br>Currently, I'm exploring Typescript and React. Although I've been <br>passionate about Object-Oriented Programming for years, Functional <br>Programming has become another favourite of mine!
 
 
 ## 🌐 Socials:
